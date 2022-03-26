@@ -9,26 +9,31 @@ class App extends Component {
             gmood: 'Happy',
             smood: 'Mellow vibes',
             drink: 'fill',
+            playlist: 'fill',
           },
           {
             gmood: 'Sad',
             smood: 'Feelings hurt :(',
             drink: 'fill',
+            playlist: 'fill',
           },
           {
             gmood: 'Energetic',
             smood: 'Bouta hit the gym',
             drink: 'fill',
+            playlist: 'fill',
           },
           {
             gmood: 'Angry',
             smood: 'FUUUUUCCCKKKK',
             drink: 'fill',
+            playlist: 'fill',
           },
           {
             gmood: 'PArtYY',
             smood: 'Demon time',
             drink: 'fill',
+            playlist: 'fill',
           }
         ]
     
