@@ -19,6 +19,8 @@
     font-size: small;
 }
 
+a{text-decoration: none; background-color: none;color:red; }
+
 body {
     background: linear-gradient(45deg, #d4581d, #ffbe2b);
     padding: 3rem;

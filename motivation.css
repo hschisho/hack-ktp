@@ -13,6 +13,7 @@
     text-align: center;
     font-size: larger;
 }
+a{text-decoration: none; background-color: none;color:gold; }
 #back {
     color: white;
     text-align: center;

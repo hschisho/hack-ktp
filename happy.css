@@ -18,6 +18,11 @@
     text-align: center;
     font-size: small;
 }
+#emoji {
+    text-align: center;
+}
+
+a{text-decoration: none; background-color: none;color:yellow; }
 
 body {
     background: linear-gradient(45deg, #1d5ed4, #2bbbff);

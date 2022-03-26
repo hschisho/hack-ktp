@@ -19,6 +19,8 @@
     font-size: small;
 }
 
+a{text-decoration: none; background-color: none;color:maroon; }
+
 body {
     background: linear-gradient(45deg, #d41d71, #a42bff);
     padding: 3rem;
