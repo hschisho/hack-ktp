@@ -6,6 +6,7 @@ const TableHeader = () => {
         <tr>
           <th>General Mood</th>
           <th>Specific Mood</th>
+          <th>Drink</th>
         </tr>
       </thead>
     )
@@ -17,6 +18,7 @@ const TableHeader = () => {
         <tr key={index}>
           <td>{row.gmood}</td>
           <td>{row.smood}</td>
+          <td>{row.drink}</td>
         </tr>
       )
     })

@@ -8,22 +8,27 @@ class App extends Component {
           {
             gmood: 'Happy',
             smood: 'Mellow vibes',
+            drink: 'fill',
           },
           {
             gmood: 'Sad',
             smood: 'Feelings hurt :(',
+            drink: 'fill',
           },
           {
             gmood: 'Energetic',
             smood: 'Bouta hit the gym',
+            drink: 'fill',
           },
           {
             gmood: 'Angry',
             smood: 'FUUUUUCCCKKKK',
+            drink: 'fill',
           },
           {
             gmood: 'PArtYY',
             smood: 'Demon time',
+            drink: 'fill',
           }
         ]
     
