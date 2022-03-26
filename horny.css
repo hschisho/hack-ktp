@@ -1,14 +1,14 @@
 #title {
-    color: red;
+    color: maroon;
     text-align: center;
     font-size: larger;
   }
-#angrymusic {
+#hornymusic {
     color: white;
     text-align: center;
     font-size: larger;
 }
-#angrydrink {
+#hornydrink {
     color: white;
     text-align: center;
     font-size: larger;
@@ -20,6 +20,6 @@
 }
 
 body {
-    background: linear-gradient(45deg, #d4581d, #ffbe2b);
+    background: linear-gradient(45deg, #d41d71, #a42bff);
     padding: 3rem;
     }
