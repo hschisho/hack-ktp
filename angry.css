@@ -1,0 +1,28 @@
+#title {
+    color: red;
+    text-align: center;
+    font-size: larger;
+  }
+#angrymusic {
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+#sub1 {
+    text-decoration:none;
+}
+#angrydrink {
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+#back {
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+
+body {
+    background: linear-gradient(45deg, #d4581d, #ffbe2b);
+    padding: 3rem;
+    }
