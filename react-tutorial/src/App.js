@@ -6,21 +6,25 @@ class App extends Component {
     render() {
         const characters = [
           {
-            name: 'Charlie',
-            job: 'Janitor',
+            gmood: 'Happy',
+            smood: 'Mellow vibes',
           },
           {
-            name: 'Mac',
-            job: 'Bouncer',
+            gmood: 'Sad',
+            smood: 'Feelings hurt :(',
           },
           {
-            name: 'Dee',
-            job: 'Aspring actress',
+            gmood: 'Energetic',
+            smood: 'Bouta hit the gym',
           },
           {
-            name: 'Dennis',
-            job: 'Bartender',
+            gmood: 'Angry',
+            smood: 'FUUUUUCCCKKKK',
           },
+          {
+            gmood: 'PArtYY',
+            smood: 'Demon time',
+          }
         ]
     
         return (

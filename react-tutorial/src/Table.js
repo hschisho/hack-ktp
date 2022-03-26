@@ -11,8 +11,17 @@ const TableHeader = () => {
     )
   }
 
-const TableBody = () => {
-    return <tbody/>
+  const TableBody = (props) => {
+    const rows = props.characterData.map((row, index) => {
+      return (
+        <tr key={index}>
+          <td>{row.gmood}</td>
+          <td>{row.smood}</td>
+        </tr>
+      )
+    })
+  
+    return <tbody>{rows}</tbody>
   }
 
 class Table extends Component {
